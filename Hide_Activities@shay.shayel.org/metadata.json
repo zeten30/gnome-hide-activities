@@ -1,0 +1,6 @@
+{
+    "shell-version": ["3.8"],
+    "uuid": "Hide_Activities@shay.shayel.org",
+    "name": "Hide Activities Button",
+    "description": "Hides the Activities button from the status bar"
+}
